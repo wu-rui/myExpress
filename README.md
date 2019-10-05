@@ -1,0 +1,2 @@
+# myExpress
+这个是我自己学习node并且实验express与数据库建立node后端项目的小白鼠
